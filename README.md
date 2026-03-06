@@ -1,4 +1,4 @@
-# Privacy Policy for Instamo
+# Terms & Privacy Policy for Instamo
 
 **Effective Date: February 17, 2026**
 
