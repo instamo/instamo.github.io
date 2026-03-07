@@ -1,4 +1,11 @@
-# Terms & Privacy Policy for Instamo
+# Terms of Use
+
+Instamo is licensed under the Apple Standard End User License Agreement (EULA).
+
+For more information, please visit:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+# Privacy Policy
 
 **Effective Date: February 17, 2026**
 
