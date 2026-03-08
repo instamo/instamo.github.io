@@ -5,7 +5,7 @@ If you have any questions about our apps, please contact us at:
 
 # Terms of Use
 
-Shrekdad is licensed under the Apple Standard End User License Agreement (EULA).
+Instamo is licensed under the Apple Standard End User License Agreement (EULA).
 For more information, please visit:
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
@@ -73,9 +73,7 @@ All face-related processing occurs **entirely on your device** using Apple’s s
 
 Imported photos and generated facial landmark data are used only to:
 
-- Position decorative elements correctly on the face  
-- Generate a customized birthday invitation card  
-- Allow you to preview, save, or share the final composite image  
+- Allow you to preview, save, or share the final composite image or video
 
 The data is not used for:
 
